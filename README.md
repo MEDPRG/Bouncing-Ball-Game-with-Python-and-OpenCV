@@ -86,5 +86,4 @@ The game runs in a real-time OpenCV window:
 
 ## Author
 
-**MEDPRG**  
-[GitHub Profile](https://github.com/MEDPRG)
+**Mohammed EL Amine Hoceini**(https://github.com/MEDPRG)
